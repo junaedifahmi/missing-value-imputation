@@ -7,8 +7,9 @@ This project is made because of my curiosity of how data mining works. The one p
 In this works I split the missing attributes into numerical model (regression) and categorical model (classification). Although some algorithm can both be suitable for regression and classification, but in this work I want to find the best model for each attribute to works as they best for.
 
 ## Implementation
-The implementation of the proposed method is using [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) as data mining library. The data used for this experiments is consist of 7 dataset that can be found in (UCI Machine Learning Repository)[https://archive.ics.uci.edu/ml/index.php]. The datasets are:
+The implementation of the proposed method is using [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) as data mining library. The data used for this experiments is consist of 7 dataset that can be found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). The datasets are:
 * Data 1
 * Data 2
+* Data 3
 
 ## Result
